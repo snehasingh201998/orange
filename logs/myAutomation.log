@@ -1,0 +1,36 @@
+11:05:04.879 [main] INFO  testCases.Test_LogIn - Starting Test_LogIn
+11:05:04.913 [main] INFO  testCases.Test_LogIn - setting username
+11:05:06.174 [main] INFO  testCases.Test_LogIn - setting password
+11:05:06.423 [main] INFO  testCases.Test_LogIn - click on login
+11:05:08.393 [main] INFO  testCases.Test_LogIn - successfully login
+11:30:23.300 [main] INFO  testCases.Test_LogIn - Starting Test_LogIn
+11:30:23.339 [main] INFO  testCases.Test_LogIn - setting username
+11:30:24.136 [main] INFO  testCases.Test_LogIn - setting password
+11:30:24.389 [main] INFO  testCases.Test_LogIn - click on login
+11:30:27.034 [main] INFO  testCases.Test_LogIn - successfully login
+12:04:12.308 [main] INFO  testCases.Test_LogIn - Starting Test_LogIn
+12:04:12.358 [main] INFO  testCases.Test_LogIn - setting username
+12:04:13.432 [main] INFO  testCases.Test_LogIn - setting password
+12:04:13.639 [main] INFO  testCases.Test_LogIn - click on login
+12:04:15.607 [main] INFO  testCases.Test_LogIn - successfully login
+12:06:02.281 [main] INFO  testCases.Test_LogIn - Starting Test_LogIn
+12:06:02.318 [main] INFO  testCases.Test_LogIn - setting username
+12:06:03.840 [main] INFO  testCases.Test_LogIn - setting password
+12:06:04.203 [main] INFO  testCases.Test_LogIn - click on login
+12:09:08.539 [main] INFO  testCases.Test_LogIn - Starting Test_LogIn
+12:09:08.615 [main] INFO  testCases.Test_LogIn - setting username
+12:09:09.326 [main] INFO  testCases.Test_LogIn - setting password
+12:09:09.662 [main] INFO  testCases.Test_LogIn - click on login
+17:33:34.356 [TestNG-tests-2] INFO  testCases.Test_LogIn - Starting Test_LogIn
+17:33:34.422 [TestNG-tests-2] INFO  testCases.Test_LogIn - setting username
+17:33:35.603 [TestNG-tests-2] INFO  testCases.Test_LogIn - setting password
+17:33:35.859 [TestNG-tests-2] INFO  testCases.Test_LogIn - click on login
+17:33:47.248 [TestNG-tests-1] INFO  testCases.Test_LogIn - Starting Test_LogIn
+17:33:47.264 [TestNG-tests-1] INFO  testCases.Test_LogIn - setting username
+17:33:47.472 [TestNG-tests-1] INFO  testCases.Test_LogIn - setting password
+17:33:47.671 [TestNG-tests-1] INFO  testCases.Test_LogIn - click on login
+17:35:55.502 [main] INFO  testCases.Test_LogIn - Starting Test_LogIn
+17:35:55.537 [main] INFO  testCases.Test_LogIn - setting username
+17:35:58.205 [main] INFO  testCases.Test_LogIn - setting password
+17:35:58.428 [main] INFO  testCases.Test_LogIn - click on login
+17:36:00.357 [main] INFO  testCases.Test_LogIn - successfully login
